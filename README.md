@@ -16,7 +16,7 @@
 
 📫 Reach out at: anitasaini18082004@gmail.com
 
-🛠️ Skills & Technologies
+                 🛠️ Skills & Technologies
 Frontend: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
 
 Backend: Node.js, Express.js
@@ -27,21 +27,21 @@ Languages: C++, JavaScript (ES6+), DSA
 
 Coursework: DSA, OOP, DBMS, OS
 
-🏆 Achievements
+                  🏆 Achievements
 ✅ Solved 500+ DSA problems on LeetCode & GeeksforGeeks
 
 🏅 Qualified Stage 1 of AlgoUniversity Tech Fellowship 2024 (Top 4,000 out of 20k+)
 
 🎯 Participant – Flipkart Grid Coding Round
 
-📂 Projects
+                    📂 Projects
 ChatPdf: Chat with PDF files using ChatGPT & Gemini | Real-time chat, TTS, OCR
 
 Image Generator: AI-powered image generation with credit system
 
 HireSpot: Full-stack job portal with secure admin panel and resume management
 
-🔗 Let’s Connect
+                    🔗 Let’s Connect
 🌐 Portfolio
 
 💼 LinkedIn
