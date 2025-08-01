@@ -14,7 +14,7 @@ I'm deeply invested in **problem-solving**, having solved **600+ DSA problems** 
 - **Backend:** Node.js, Express.js  
 - **Database & Tools:** MongoDB, Firebase, GitHub, Postman  
 - **Developer Tools:** VS Code, Git, Postman  
-- **Languages:** C++, JavaScript (ES6+)
+- **Languages:** C++, JavaScript 
 
 ---
 
@@ -22,7 +22,7 @@ I'm deeply invested in **problem-solving**, having solved **600+ DSA problems** 
 
 ### 🧾 [ChatPDF](https://chatpdf-seven-weld.vercel.app/)  
 A real-time AI-powered document chat tool with **Next.js**, **Firebase**, **Gemini** & **ChatGPT**, allowing users to upload PDFs/images and ask contextual questions.  
-🔹 Live collaboration | OCR | Export answers | Intelligent QA
+🔹 Live collaboration | Export answers | Intelligent QA
 
 ### 🎨 [AI Image Generator](https://client-eight-topaz.vercel.app/)  
 A full-stack image generation app using **MERN stack** + **ClipDrop API** + **Razorpay**.  
