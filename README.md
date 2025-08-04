@@ -23,16 +23,16 @@ I'm deeply invested in **problem-solving**, having solved **600+ DSA problems** 
 ### 🧾 [ChatPDF](https://chatpdf-seven-weld.vercel.app/)  
 **AI-powered document chat platform** with real-time collaboration, built using **Next.js**, **Firebase**, and **OpenAI/Gemini**.  
 A full-stack tool for uploading, chatting with, and analyzing PDFs/images with intelligent Q&A capabilities.   
-🔗 [Live Project](https://chatpdf-seven-weld.vercel.app/)
+[Live Project](https://chatpdf-seven-weld.vercel.app/)
 
 ### 🎨 [AI Image Generator](https://client-eight-topaz.vercel.app/)  
 **Full-stack AI image generation SaaS** using **MERN stack** and **ClipDrop API**.  
 Features include text-to-image conversion, user authentication, credit system, and Razorpay payment integration.  
-🔗 [Live Project](https://client-eight-topaz.vercel.app/)
+[Live Project](https://client-eight-topaz.vercel.app/)
 
 ### 💼 [HireSpot](https://job-linker-xoes.onrender.com/)  
 A **full-stack job portal** built with the **MERN stack**, featuring role-based dashboards for job seekers and recruiters, secure authentication, and real-time job application management.  
-🔗 [Live Project](https://job-linker-xoes.onrender.com/)
+[Live Project](https://job-linker-xoes.onrender.com/)
 
 ---
 
