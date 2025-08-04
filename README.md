@@ -21,16 +21,18 @@ I'm deeply invested in **problem-solving**, having solved **600+ DSA problems** 
 ## 🧠 Projects and Achievements:
 
 ### 🧾 [ChatPDF](https://chatpdf-seven-weld.vercel.app/)  
-A real-time AI-powered document chat tool with **Next.js**, **Firebase**, **Gemini** & **ChatGPT**, allowing users to upload PDFs/images and ask contextual questions.  
-🔹 Live collaboration | Export answers | Intelligent QA
+**AI-powered document chat platform** with real-time collaboration, built using **Next.js**, **Firebase**, and **OpenAI/Gemini**.  
+A full-stack tool for uploading, chatting with, and analyzing PDFs/images with intelligent Q&A capabilities.   
+🔗 [Live Project](https://chatpdf-seven-weld.vercel.app/)
 
 ### 🎨 [AI Image Generator](https://client-eight-topaz.vercel.app/)  
-A full-stack image generation app using **MERN stack** + **ClipDrop API** + **Razorpay**.  
-🔹 Secure payments | Credit tracking | Real-time updates
+**Full-stack AI image generation SaaS** using **MERN stack** and **ClipDrop API**.  
+Features include text-to-image conversion, user authentication, credit system, and Razorpay payment integration.  
+🔗 [Live Project](https://client-eight-topaz.vercel.app/)
 
 ### 💼 [HireSpot](https://job-linker-xoes.onrender.com/)  
-A scalable **job portal** built with MERN stack, with **role-based dashboards**, **JWT auth**, **resume upload**, and **Cloudinary** integration.  
-🔹 Dynamic dashboards | Admin-recruiter-user flows
+A **full-stack job portal** built with the **MERN stack**, featuring role-based dashboards for job seekers and recruiters, secure authentication, and real-time job application management.  
+🔗 [Live Project](https://job-linker-xoes.onrender.com/)
 
 ---
 
