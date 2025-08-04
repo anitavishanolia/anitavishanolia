@@ -10,7 +10,6 @@ I'm deeply invested in <strong>problem-solving</strong>, having solved <strong>6
 </p>
 <hr>
 
-
 ---
 
 ## 🔧 Skills & Technologies:
