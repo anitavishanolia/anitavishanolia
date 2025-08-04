@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hey there!</h1>
 <p align="center">
 I'm <strong>Anita Saini</strong>, a passionate and detail-oriented <strong>MERN Stack Developer</strong> currently pursuing a B.Tech in Computer Science and Engineering at <strong>NIT Jalandhar</strong>.
 </p>
@@ -8,11 +8,10 @@ I specialize in building scalable, full-stack web applications that are visually
 <p align="center">
 I'm deeply invested in <strong>problem-solving</strong>, having solved <strong>600+ DSA problems</strong> on platforms like <strong>LeetCode</strong> and <strong>GeeksforGeeks</strong>, and I enjoy using logical thinking to solve real-world challenges.
 </p>
-<hr>
 
 ---
 
-## 🔧 Skills & Technologies:
+## Skills & Technologies:
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
@@ -22,7 +21,7 @@ I'm deeply invested in <strong>problem-solving</strong>, having solved <strong>6
 
 ---
 
-## 🧠 Projects and Achievements:
+## Projects and Achievements:
 
 ### [ChatPDF](https://chatpdf-seven-weld.vercel.app/)  
 **AI-powered document chat platform** with real-time collaboration, built using **Next.js**, **Firebase**, and **OpenAI/Gemini**.  
@@ -40,7 +39,7 @@ A **full-stack job portal** built with the **MERN stack**, featuring role-based 
 
 ---
 
-## 🏆 Achievements:
+## Achievements:
 
 - 🌟 Solved **600+ DSA problems** on LeetCode & GFG  
 - 💻 Qualified **Stage 1** of **AlgoUniversity Tech Fellowship 2024** (Top 4,000 out of 20,000+)  
@@ -49,7 +48,7 @@ A **full-stack job portal** built with the **MERN stack**, featuring role-based 
 
 ---
 
-## 🔗 Let's Connect!
+## Let's Connect!
 
 - 🌐 [Portfolio Website](https://anitaportfolio-three.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/anita-saini-76883629a)
