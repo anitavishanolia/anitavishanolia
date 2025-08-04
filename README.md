@@ -1,10 +1,15 @@
-# Hi there! 👋
+<h1 align="center">Hi there! 👋</h1>
+<p align="center">
+I'm <strong>Anita Saini</strong>, a passionate and detail-oriented <strong>MERN Stack Developer</strong> currently pursuing a B.Tech in Computer Science and Engineering at <strong>NIT Jalandhar</strong>.
+</p>
+<p align="center">
+I specialize in building scalable, full-stack web applications that are visually appealing, user-friendly, and powered by modern technologies like <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and <strong>MongoDB</strong>, with robust backend systems using <strong>Node.js</strong> and <strong>Express.js</strong>.
+</p>
+<p align="center">
+I'm deeply invested in <strong>problem-solving</strong>, having solved <strong>600+ DSA problems</strong> on platforms like <strong>LeetCode</strong> and <strong>GeeksforGeeks</strong>, and I enjoy using logical thinking to solve real-world challenges.
+</p>
+<hr>
 
-I'm **Anita Saini**, a passionate and detail-oriented **MERN Stack Developer** currently pursuing a B.Tech in Computer Science and Engineering at **NIT Jalandhar**.
-
-I specialize in building scalable, full-stack web applications that are visually appealing, user-friendly, and powered by modern technologies like **React**, **Next.js**, **Tailwind CSS**, and **MongoDB**, with robust backend systems using **Node.js** and **Express.js**.
-
-I'm deeply invested in **problem-solving**, having solved **600+ DSA problems** on platforms like **LeetCode** and **GeeksforGeeks**, and I enjoy using logical thinking to solve real-world challenges.
 
 ---
 
@@ -20,17 +25,17 @@ I'm deeply invested in **problem-solving**, having solved **600+ DSA problems** 
 
 ## 🧠 Projects and Achievements:
 
-### 🧾 [ChatPDF](https://chatpdf-seven-weld.vercel.app/)  
+### [ChatPDF](https://chatpdf-seven-weld.vercel.app/)  
 **AI-powered document chat platform** with real-time collaboration, built using **Next.js**, **Firebase**, and **OpenAI/Gemini**.  
 A full-stack tool for uploading, chatting with, and analyzing PDFs/images with intelligent Q&A capabilities.   
 [Live Project](https://chatpdf-seven-weld.vercel.app/)
 
-### 🎨 [AI Image Generator](https://client-eight-topaz.vercel.app/)  
+### [AI Image Generator](https://client-eight-topaz.vercel.app/)  
 **Full-stack AI image generation SaaS** using **MERN stack** and **ClipDrop API**.  
 Features include text-to-image conversion, user authentication, credit system, and Razorpay payment integration.  
 [Live Project](https://client-eight-topaz.vercel.app/)
 
-### 💼 [HireSpot](https://job-linker-xoes.onrender.com/)  
+### [HireSpot](https://job-linker-xoes.onrender.com/)  
 A **full-stack job portal** built with the **MERN stack**, featuring role-based dashboards for job seekers and recruiters, secure authentication, and real-time job application management.  
 [Live Project](https://job-linker-xoes.onrender.com/)
 
