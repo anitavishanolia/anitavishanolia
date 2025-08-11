@@ -44,7 +44,6 @@ A **full-stack job portal** built with the **MERN stack**, featuring role-based 
 - 🌟 Solved **600+ DSA problems** on LeetCode & GFG  
 - 💻 Qualified **Stage 1** of **AlgoUniversity Tech Fellowship 2024** (Top 4,000 out of 20,000+)  
 - 🏆 Secured **Rank 85** in **ICPC Algo Queen – Girls’ Programming Cup 2025**  
-- 🛒 Participated in **Flipkart Grid Coding Round**
 
 ---
 
